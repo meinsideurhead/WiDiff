@@ -1,0 +1,7 @@
+C:\Users\konrad.nogalski\source\repos\TimeSavers\TimeSavers\bin\Debug\TimeSavers.exe.config
+C:\Users\konrad.nogalski\source\repos\TimeSavers\TimeSavers\bin\Debug\TimeSavers.exe
+C:\Users\konrad.nogalski\source\repos\TimeSavers\TimeSavers\bin\Debug\TimeSavers.pdb
+C:\Users\konrad.nogalski\source\repos\TimeSavers\TimeSavers\obj\Debug\TimeSavers.csprojAssemblyReference.cache
+C:\Users\konrad.nogalski\source\repos\TimeSavers\TimeSavers\obj\Debug\TimeSavers.csproj.CoreCompileInputs.cache
+C:\Users\konrad.nogalski\source\repos\TimeSavers\TimeSavers\obj\Debug\TimeSavers.exe
+C:\Users\konrad.nogalski\source\repos\TimeSavers\TimeSavers\obj\Debug\TimeSavers.pdb
